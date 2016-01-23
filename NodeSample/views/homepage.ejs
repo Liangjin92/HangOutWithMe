@@ -8,11 +8,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>Movie Genius - Home</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="/stylesheets/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
 
     <!-- Custom CSS -->
     <link href="/stylesheets/business-casual.css" rel="stylesheet">
@@ -26,10 +28,11 @@
     <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+        <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
     <![endif]-->
 
 </head>
-
 <body>
 
     <div class="brand">Hang Out with Me!</div>
@@ -121,7 +124,20 @@
                     <h1 class="brand-name">Find a dinner-mate at Hang Out!</h1>
                     <hr class="tagline-divider">
                     <div>
-                        <a href="/login" class="btn btn-default">Sign In</a>
+                        <div data-role="popup" id="myPopup" class="ui-content" style="min-width:250px;">
+                            <form method="post" action="demoform.asp">
+                                <div>
+                                    <h3>Login information</h3>
+                                    <label for="usrnm" class="ui-hidden-accessible">Username:</label>
+                                    <input type="text" name="user" id="usrnm" placeholder="Username">
+                                    <label for="pswd" class="ui-hidden-accessible">Password:</label>
+                                    <input type="password" name="passw" id="pswd" placeholder="Password">
+                                    <label for="log">Keep me logged in</label>
+                                    <input type="checkbox" name="login" id="log" value="1" data-mini="true">
+                                    <input type="submit" data-inline="true" value="Log in">
+                                </div>
+                            </form>
+                        </div>
                         <a href="/login" class="btn btn-default">Sign Up</a>
                     </div>
                 </div>
