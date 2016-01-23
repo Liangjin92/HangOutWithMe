@@ -18,8 +18,8 @@ router.get('/yourwork', function(req, res, next) {
 	res.render('yourwork', {results: null});
 });
 
-//router.get('/login', function(req, res, next) {
-//	res.render('login', {results: null});
-//});
+router.get('/login', function(req, res, next) {
+	res.render('login', {results: null});
+});
 
 module.exports = router;

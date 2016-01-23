@@ -19,7 +19,7 @@ var homework = require('./routes/homeworkRoute');
 
 var app = express();
 
-console.log('CIS450/550 Homework3');
+console.log('Hang Out with Me!');
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));

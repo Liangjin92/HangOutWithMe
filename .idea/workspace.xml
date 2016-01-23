@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3641f98-bd30-4e56-a65b-891b9fae6c8d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/NodeSample/node_modules/.bin/mime" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/NodeSample/node_modules/accepts/HISTORY.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/NodeSample/node_modules/accepts/LICENSE" afterPath="" />
@@ -297,142 +296,18 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/NodeSample/node_modules/vary/README.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/NodeSample/node_modules/vary/index.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/NodeSample/node_modules/vary/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NodeSample/public/images/background.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/NodeSample/public/images/space.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/NodeSample/public/javascripts/jquery-2.2.0.min.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/NodeSample/routes/users.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/NodeSample/views/index.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NodeSample/views/users.ejs" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/img/slide-1.jpg" afterPath="$PROJECT_DIR$/NodeSample/img/slide-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/img/slide-2.jpg" afterPath="$PROJECT_DIR$/NodeSample/img/slide-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/img/slide-3.jpg" afterPath="$PROJECT_DIR$/NodeSample/img/slide-3.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/app.js" afterPath="$PROJECT_DIR$/NodeSample/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/bin/www" afterPath="$PROJECT_DIR$/NodeSample/bin/www" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/body-parser/HISTORY.md" afterPath="$PROJECT_DIR$/NodeSample/node_modules/body-parser/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/body-parser/LICENSE" afterPath="$PROJECT_DIR$/NodeSample/node_modules/body-parser/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/body-parser/README.md" afterPath="$PROJECT_DIR$/NodeSample/node_modules/body-parser/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/body-parser/index.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/body-parser/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/body-parser/lib/read.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/body-parser/lib/read.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/body-parser/lib/types/json.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/body-parser/lib/types/json.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/body-parser/lib/types/raw.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/body-parser/lib/types/raw.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/body-parser/lib/types/text.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/body-parser/lib/types/text.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/body-parser/lib/types/urlencoded.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/body-parser/lib/types/urlencoded.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/body-parser/package.json" afterPath="$PROJECT_DIR$/NodeSample/node_modules/body-parser/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/cookie-parser/HISTORY.md" afterPath="$PROJECT_DIR$/NodeSample/node_modules/cookie-parser/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/cookie-parser/LICENSE" afterPath="$PROJECT_DIR$/NodeSample/node_modules/cookie-parser/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/cookie-parser/README.md" afterPath="$PROJECT_DIR$/NodeSample/node_modules/cookie-parser/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/cookie-parser/index.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/cookie-parser/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/cookie-parser/lib/parse.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/cookie-parser/lib/parse.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/cookie-parser/package.json" afterPath="$PROJECT_DIR$/NodeSample/node_modules/cookie-parser/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/debug/.jshintrc" afterPath="$PROJECT_DIR$/NodeSample/node_modules/debug/.jshintrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/debug/.npmignore" afterPath="$PROJECT_DIR$/NodeSample/node_modules/debug/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/debug/History.md" afterPath="$PROJECT_DIR$/NodeSample/node_modules/debug/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/debug/Makefile" afterPath="$PROJECT_DIR$/NodeSample/node_modules/debug/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/debug/Readme.md" afterPath="$PROJECT_DIR$/NodeSample/node_modules/debug/Readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/debug/bower.json" afterPath="$PROJECT_DIR$/NodeSample/node_modules/debug/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/debug/browser.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/debug/browser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/debug/component.json" afterPath="$PROJECT_DIR$/NodeSample/node_modules/debug/component.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/debug/debug.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/debug/debug.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/debug/node.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/debug/node.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/debug/package.json" afterPath="$PROJECT_DIR$/NodeSample/node_modules/debug/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/Jakefile" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/Jakefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/README.md" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/ejs.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/ejs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/ejs.min.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/ejs.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/lib/ejs.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/lib/ejs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/lib/utils.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/lib/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/package.json" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/ejs.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/ejs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/backslash.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/backslash.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/backslash.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/backslash.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/comments.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/comments.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/comments.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/comments.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/consecutive-tags.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/consecutive-tags.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/consecutive-tags.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/consecutive-tags.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/double-quote.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/double-quote.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/double-quote.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/double-quote.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/error.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/error.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/error.out" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/error.out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/fail.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/fail.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/hello-world.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/hello-world.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include-abspath.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include-abspath.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include-simple.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include-simple.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include-simple.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include-simple.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include.css.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include.css.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include.css.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include.css.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include_cache.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include_cache.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include_cache.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include_cache.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include_preprocessor.css.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include_preprocessor.css.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include_preprocessor.css.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include_preprocessor.css.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include_preprocessor.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include_preprocessor.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include_preprocessor.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include_preprocessor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include_preprocessor_cache.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include_preprocessor_cache.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include_preprocessor_cache.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/include_preprocessor_cache.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/includes/bom.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/includes/bom.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/includes/menu-item.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/includes/menu-item.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/includes/menu/item.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/includes/menu/item.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/literal.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/literal.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/literal.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/literal.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/menu.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/menu.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/menu.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/menu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/menu_preprocessor.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/menu_preprocessor.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/menu_preprocessor.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/menu_preprocessor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/menu_var.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/menu_var.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/messed.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/messed.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/messed.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/messed.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/newlines.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/newlines.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/newlines.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/newlines.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/newlines.mixed.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/newlines.mixed.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/newlines.mixed.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/newlines.mixed.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/no.newlines.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/no.newlines.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/no.newlines.error.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/no.newlines.error.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/no.newlines.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/no.newlines.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/no.semicolons.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/no.semicolons.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/no.semicolons.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/no.semicolons.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/para.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/para.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/pet.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/pet.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/rmWhitespace.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/rmWhitespace.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/rmWhitespace.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/rmWhitespace.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/single-quote.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/single-quote.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/single-quote.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/single-quote.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/space-and-tab-slurp.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/space-and-tab-slurp.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/space-and-tab-slurp.html" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/space-and-tab-slurp.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/style.css" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/user-no-with.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/user-no-with.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/user.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/user.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/with-context.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/fixtures/with-context.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/mocha.opts" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/mocha.opts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/tmp/include.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/tmp/include.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/tmp/include_preprocessor.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/tmp/include_preprocessor.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/tmp/renderFile.ejs" afterPath="$PROJECT_DIR$/NodeSample/node_modules/ejs/test/tmp/renderFile.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/express/History.md" afterPath="$PROJECT_DIR$/NodeSample/node_modules/express/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/express/LICENSE" afterPath="$PROJECT_DIR$/NodeSample/node_modules/express/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/express/Readme.md" afterPath="$PROJECT_DIR$/NodeSample/node_modules/express/Readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/express/index.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/express/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/application.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/express.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/express.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/middleware/init.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/middleware/init.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/middleware/query.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/middleware/query.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/request.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/request.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/response.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/response.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/router/index.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/router/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/router/layer.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/router/layer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/router/route.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/router/route.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/utils.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/view.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/express/lib/view.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/express/package.json" afterPath="$PROJECT_DIR$/NodeSample/node_modules/express/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/morgan/HISTORY.md" afterPath="$PROJECT_DIR$/NodeSample/node_modules/morgan/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/morgan/LICENSE" afterPath="$PROJECT_DIR$/NodeSample/node_modules/morgan/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/morgan/README.md" afterPath="$PROJECT_DIR$/NodeSample/node_modules/morgan/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/morgan/index.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/morgan/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/morgan/package.json" afterPath="$PROJECT_DIR$/NodeSample/node_modules/morgan/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/serve-favicon/HISTORY.md" afterPath="$PROJECT_DIR$/NodeSample/node_modules/serve-favicon/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/serve-favicon/LICENSE" afterPath="$PROJECT_DIR$/NodeSample/node_modules/serve-favicon/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/serve-favicon/README.md" afterPath="$PROJECT_DIR$/NodeSample/node_modules/serve-favicon/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/serve-favicon/index.js" afterPath="$PROJECT_DIR$/NodeSample/node_modules/serve-favicon/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/node_modules/serve-favicon/package.json" afterPath="$PROJECT_DIR$/NodeSample/node_modules/serve-favicon/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/package.json" afterPath="$PROJECT_DIR$/NodeSample/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/public/stylesheets/style.css" afterPath="$PROJECT_DIR$/NodeSample/public/stylesheets/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/routes/index.js" afterPath="$PROJECT_DIR$/NodeSample/routes/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/views/error.ejs" afterPath="$PROJECT_DIR$/NodeSample/views/error.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/views/homepage.ejs" afterPath="$PROJECT_DIR$/NodeSample/views/homepage.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NodeSample/views/login.ejs" afterPath="$PROJECT_DIR$/NodeSample/views/login.ejs" />
     </list>
     <ignored path="DreamJobs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -453,31 +328,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="www" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeSample/bin/www">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NodeSample/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="169" column="0" selection-start-line="169" selection-start-column="0" selection-end-line="169" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="error.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeSample/views/error.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -493,11 +348,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="homepage.ejs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="homepage.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NodeSample/views/homepage.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.69008267">
-              <caret line="111" column="73" selection-start-line="111" selection-start-column="73" selection-end-line="111" selection-end-column="73" />
+            <state vertical-scroll-proportion="-2.0416667">
+              <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.ejs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NodeSample/views/login.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5268595">
+              <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeSample/views/sample.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="references.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeSample/views/references.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="77.333336">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeSample/public/stylesheets/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="15.54902">
+              <caret line="111" column="6" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -506,7 +401,7 @@
       <file leaf-file-name="yourwork.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NodeSample/views/yourwork.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.416667">
+            <state vertical-scroll-proportion="-10.166667">
               <caret line="49" column="66" selection-start-line="49" selection-start-column="66" selection-end-line="49" selection-end-column="66" />
               <folding />
             </state>
@@ -516,17 +411,21 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NodeSample/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding>
-                <marker date="1448081502000" expanded="true" signature="66:86" placeholder="/*...*/" />
-                <marker date="1448081502000" expanded="true" signature="128:130" placeholder="{...}" />
-              </folding>
+            <state vertical-scroll-proportion="-12.777778">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -534,12 +433,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/NodeSample/app.js" />
-        <option value="$PROJECT_DIR$/NodeSample/routes/index.js" />
         <option value="$PROJECT_DIR$/NodeSample/views/users.ejs" />
         <option value="$PROJECT_DIR$/NodeSample/views/index.ejs" />
         <option value="$PROJECT_DIR$/NodeSample/public/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/NodeSample/views/yourwork.ejs" />
+        <option value="$PROJECT_DIR$/NodeSample/routes/index.js" />
+        <option value="$PROJECT_DIR$/NodeSample/app.js" />
+        <option value="$PROJECT_DIR$/NodeSample/public/stylesheets/login.css" />
+        <option value="$PROJECT_DIR$/NodeSample/views/login.ejs" />
         <option value="$PROJECT_DIR$/NodeSample/views/homepage.ejs" />
       </list>
     </option>
@@ -633,7 +534,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DreamJobs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DreamJobs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeSample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -666,6 +589,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="FullScreen" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -811,10 +735,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-          <folding>
-            <marker date="1448081502000" expanded="true" signature="66:86" placeholder="/*...*/" />
-            <marker date="1448081502000" expanded="true" signature="128:130" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -834,25 +755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NodeSample/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <marker date="1448081502000" expanded="true" signature="66:86" placeholder="/*...*/" />
-            <marker date="1448081502000" expanded="true" signature="128:130" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeSample/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="169" column="0" selection-start-line="169" selection-start-column="0" selection-end-line="169" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NodeSample/public/stylesheets/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.375">
@@ -861,18 +763,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/NodeSample/public/stylesheets/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="15.54902">
+          <caret line="111" column="6" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeSample/views/sample.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/NodeSample/views/yourwork.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.416667">
+        <state vertical-scroll-proportion="-10.166667">
           <caret line="49" column="66" selection-start-line="49" selection-start-column="66" selection-end-line="49" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeSample/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.777778">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeSample/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeSample/views/references.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="77.333336">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/NodeSample/views/homepage.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.69008267">
-          <caret line="111" column="73" selection-start-line="111" selection-start-column="73" selection-end-line="111" selection-end-column="73" />
+        <state vertical-scroll-proportion="-2.0416667">
+          <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeSample/views/login.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5268595">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
           <folding />
         </state>
       </provider>
