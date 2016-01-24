@@ -22,4 +22,11 @@ router.get('/login', function(req, res, next) {
 	res.render('login', {results: null});
 });
 
+router.get('/location', function(req, res, next) {
+	res.render('location', {results: null});
+});
+
+router.get('/signUp', function(req, res, next) {
+	res.render('signUp', {results: null});
+});
 module.exports = router;

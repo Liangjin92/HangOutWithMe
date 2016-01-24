@@ -8,9 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Movie Genius - Home</title>
+    <title>Hang Out</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="/stylesheets/bootstrap.min.css" rel="stylesheet">
@@ -50,7 +49,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
-                <a class="navbar-brand" href="/">Movie Genius</a>
+                <a class="navbar-brand" href="/">Hang Out</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -59,13 +58,13 @@
                         <a href="/">Home</a>
                     </li>
                     <li>
-                        <a href="/references">About</a>
-                    </li>
-                    <li>
-                        <a href="/sample">Blog</a>
+                        <a href="/references">About us</a>
                     </li>
                     <li>
                         <a href="/yourwork">Review</a>
+                    </li>
+                    <li>
+                        <a href="/location">Go dining</a>
                     </li>
                 </ul>
             </div>
@@ -121,13 +120,14 @@
                     <h2 class="brand-before">
                         <small>Want someone to have dinner together?</small>
                     </h2>
-                    <h1 class="brand-name">Find a dinner-mate at Hang Out!</h1>
-                    <hr class="tagline-divider">
+                    <h1 class="brand-name">Find someone at Hang Out!</h1>
+                    <!--<hr class="tagline-divider">-->
                     <div>
+                        <a href="/signUp" class="btn btn-default">Sign Up</a>
                         <div data-role="popup" id="myPopup" class="ui-content" style="min-width:250px;">
-                            <form method="post" action="demoform.asp">
+                            <form method="post" action="location">
                                 <div>
-                                    <h3>Login information</h3>
+                                    <h3>Log Me In</h3>
                                     <label for="usrnm" class="ui-hidden-accessible">Username:</label>
                                     <input type="text" name="user" id="usrnm" placeholder="Username">
                                     <label for="pswd" class="ui-hidden-accessible">Password:</label>
@@ -138,7 +138,6 @@
                                 </div>
                             </form>
                         </div>
-                        <a href="/login" class="btn btn-default">Sign Up</a>
                     </div>
                 </div>
             </div>
