@@ -11,7 +11,7 @@ function getResults(db, callback) {
 			callback(results);
 		}
 	});
-};
+}
 
 function generateResponse(req, res) {
 	// The url to connect to the mongodb instance
